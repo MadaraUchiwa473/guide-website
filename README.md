@@ -1,8 +1,13 @@
 # template
-A template for the organization of files and their content so that it is easier to navigate
+A template for the organization of files and their content so that it is easier to navigate. 
+You must extract the file (unzipped) to access everything.
+
+Un modèle pour l'organisation des fichiers et de leur contenu afin qu'il soit plus facile de naviguer.
+Vous devez extraire le fichier (décompressé) pour accéder à tout.
 
 # folow me
 On instagram : instagram.com/madara_red1
+Join our discord : dsc.gg/supermarche
 
 # STYLE
 
